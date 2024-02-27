@@ -1,4 +1,6 @@
-Greetings programs!
+"Greetings programs!"
+
+"I fight for the users!"
 
 <!---
 jshonk-extron/jshonk-extron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
